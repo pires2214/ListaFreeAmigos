@@ -2516,3 +2516,486 @@ http://tinyurl.com/ServidorFORMIGAtv80/Formigatv/51736915tv/9967.m3u8
 http://tinyurl.com/ServidorFORMIGAtv80/Formigatv/51736915tv/9968.m3u8
 #EXTINF:-1 group-title="INFANTIL" tvg-logo="http://www.rochagalaxia.live/logos/urbankids250.png" tvg-name="URBAN KIDS" ,URBAN KIDS
 http://tinyurl.com/ServidorFORMIGAtv80/Formigatv/51736915tv/9969.m3u8
+#EXTM3U
+#EXTINF:-1 group-title="BR Esportes" ,------|Brazil|------
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/2532
+#EXTINF:-1 group-title="BR Esportes" ,BR:-----|Esportes|---------------------------------
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/66013
+#EXTINF:-1 group-title="BR Esportes" tvg-id="band.sports.br" ,BR008:Band Sports HD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/2524
+#EXTINF:-1 group-title="BR Esportes" tvg-id="bandsports.br" ,BR117:Band Sports SD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/65672
+#EXTINF:-1 group-title="BR Esportes" tvg-id="combate.br" ,BR015:Combate HD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/2517
+#EXTINF:-1 group-title="BR Esportes" tvg-id="combate.br" ,BR127:Conmebol 1
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/65682
+#EXTINF:-1 group-title="BR Esportes" ,BR157:Conmebol 2
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/65712
+#EXTINF:-1 group-title="BR Esportes" tvg-id="espn.br" ,BR033:ESPN HD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/2499
+#EXTINF:-1 group-title="BR Esportes" ,BR156:Espn Extra FHD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/65711
+#EXTINF:-1 group-title="BR Esportes" ,BR154:Espn Brasil FHD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/65709
+#EXTINF:-1 group-title="BR Esportes" tvg-id="espn.brasil.br" ,BR031:ESPN BRASIL HD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/2501
+#EXTINF:-1 group-title="BR Esportes" ,BR155:Espn Brasil SD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/65710
+#EXTINF:-1 group-title="BR Esportes" tvg-id="espn.extra.br" ,BR030:ESPN Extra HD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/2502
+#EXTINF:-1 group-title="BR Esportes" tvg-id="sony.br" ,BR012:FISH TV HD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/2520
+#EXTINF:-1 group-title="BR Esportes" ,BR217:Off SD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/65772
+#EXTINF:-1 group-title="BR Esportes" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR158EspnSD.png" ,BR158:Espn SD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/65713
+#EXTINF:-1 group-title="BR Esportes" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR073OFF.png" tvg-id="off.br" ,BR073:Off HD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/2459
+#EXTINF:-1 group-title="BR Esportes" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR042FoxSports2BR.png" tvg-id="fox.sports.2.br" ,BR042:Fox Sports 2 HD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/2490
+#EXTINF:-1 group-title="BR Esportes" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR043FoxSports1.png" tvg-id="fox.sports.br" ,BR043:Fox Sports 1 HD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/2489
+#EXTINF:-1 group-title="BR Esportes" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR236Sportv3FHD.png" ,BR236:Sportv 3 FHD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/65791
+#EXTINF:-1 group-title="BR Esportes" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR088SportTV3.png" tvg-id="sportv.3.br" ,BR088:Sport TV 3 HD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/2444
+#EXTINF:-1 group-title="BR Esportes" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR237Sportv3SD.png" ,BR237:Sportv 3 SD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/65792
+#EXTINF:-1 group-title="BR Esportes" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR087SportTV2.png" tvg-id="sportv.2.br" ,BR087:Sport TV 2 HD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/2445
+#EXTINF:-1 group-title="BR Esportes" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR234Sportv2FHD.png" ,BR234:Sportv 2 FHD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/65789
+#EXTINF:-1 group-title="BR Esportes" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR235Sportv2SD.png" ,BR235:Sportv 2 SD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/65790
+#EXTINF:-1 group-title="BR Esportes" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR238SportvFHD.png" ,BR238:Sportv FHD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/65793
+#EXTINF:-1 group-title="BR Esportes" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR089SportTV1.png" tvg-id="sportv.br" ,BR089:Sport TV 1 HD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/2443
+#EXTINF:-1 group-title="BR Esportes" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR239SportvSD.png" ,BR239:Sportv SD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/65794
+#EXTINF:-1 group-title="BR Esportes" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR034PFC.png" tvg-id="a.e.br" ,BR034:DAZN 1 HD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/2498
+#EXTINF:-1 group-title="BR Esportes" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR032WOOHOO.png" tvg-id="woohoo.br" ,BR032:WOOHOO HD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/2500
+#EXTINF:-1 group-title="BR Esportes" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR268WoohooSD.png" ,BR268:Woohoo FHD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/65823
+#EXTINF:-1 group-title="BR Documentarios" ,BR:-----|Documentarios|---------------------------------
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/66167
+#EXTINF:-1 group-title="BR Documentarios" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR108AnimalPlanetFHD.png" tvg-id="animal.planet.br" ,BR108:Animal Planet FHD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/65663
+#EXTINF:-1 group-title="BR Documentarios" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR003AnimalPlanetBR.png" tvg-id="animal.planet.br" ,BR003:Animal Planet HD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/2529
+#EXTINF:-1 group-title="BR Documentarios" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR018DiscoveryBR.png" tvg-id="discovery.br" ,BR018:Discovery HD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/2514
+#EXTINF:-1 group-title="BR Documentarios" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR019DiscoveryCivilization.png" tvg-id="discovery.civilization.br" ,BR019:Discovery Civilization HD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/2513
+#EXTINF:-1 group-title="BR Documentarios" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR138DiscoveryScienceFHD.png" tvg-id="discovery.science.br" ,BR138:Discovery Science FHD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/65693
+#EXTINF:-1 group-title="BR Documentarios" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR070NATGEOWildBR.png" tvg-id="natgeo.wild.br" ,BR070:NAT GEO Wild HD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/2462
+#EXTINF:-1 group-title="BR Documentarios" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR022DiscoveryScienceBR.png" tvg-id="discovery.science.br" ,BR022:Discovery Science HD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/2510
+#EXTINF:-1 group-title="BR Documentarios" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR139DiscoveryScienceSD.png" tvg-id="discovery.science.br" ,BR139:Discovery Science SD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/65694
+#EXTINF:-1 group-title="BR Documentarios" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR023DiscoveryTheater.png" tvg-id="discovery.theater.br" ,BR023:Discovery Theater HD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/2509
+#EXTINF:-1 group-title="BR Documentarios" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR024DiscoveryTurbo.png" tvg-id="discovery.turbo.br" ,BR024:Discovery Turbo HD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/2508
+#EXTINF:-1 group-title="BR Documentarios" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR144DiscoveryTurboSD.png" tvg-id="discovery.turbo.br" ,BR144:Discovery Turbo SD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/65699
+#EXTINF:-1 group-title="BR Documentarios" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR145DiscoveryWorldFHD.png" tvg-id="discovery.world.br" ,BR145:Discovery World FHD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/65700
+#EXTINF:-1 group-title="BR Documentarios" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR025DiscoveryWORLD.png" tvg-id="discovery.world.br" ,BR025:Discovery World HD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/2507
+#EXTINF:-1 group-title="BR Documentarios" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR146DiscoveryWorldSD.png" tvg-id="discovery.world.br" ,BR146:Discovery World SD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/65701
+#EXTINF:-1 group-title="BR Documentarios" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR058IDBR.png" tvg-id="investigation.discovery.br" ,BR058:Investigacao Discovery HD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/2474
+#EXTINF:-1 group-title="BR Documentarios" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR201InvestigacaoDiscoverySD.png" tvg-id="investigacao.discovery.br" ,BR201:Investigacao Discovery SD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/65756
+#EXTINF:-1 group-title="BR Documentarios" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR198HistoryChannelFHD.png" tvg-id="history.br" ,BR198:History Channel FHD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/65753
+#EXTINF:-1 group-title="BR Documentarios" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR057HistoryBR.png" tvg-id="history.br" ,BR057:History HD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/2475
+#EXTINF:-1 group-title="BR Documentarios" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR199HistoryChannelSD.png" tvg-id="history.br" ,BR199:History Channel SD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/65754
+#EXTINF:-1 group-title="BR Documentarios" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR184H2FHD.png" tvg-id="h2.br" ,BR184:H2 FHD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/65739
+#EXTINF:-1 group-title="BR Documentarios" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR051H2BR.png" tvg-id="h2.br" ,BR051:H2 HD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/2481
+#EXTINF:-1 group-title="BR Documentarios" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR185H2SD.png" tvg-id="h2.br" ,BR185:H2 SD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/65740
+#EXTINF:-1 group-title="BR Documentarios" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR068NATGEOBR.png" tvg-id="national.geographic.br" ,BR068:NAT GEO HD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/2464
+#EXTINF:-1 group-title="BR Documentarios" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR142DiscoveryTLCSD.png" tvg-id="tlc.br" ,BR142:Discovery TLC SD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/65697
+#EXTINF:-1 group-title="BR Telecine" ,BR:-----|Canais Telecine|---------------------------------
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/66012
+#EXTINF:-1 group-title="BR Telecine" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR245TelecineActionFHD.png" tvg-id="telecine.action.br" ,BR245:Telecine Action FHD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/65800
+#EXTINF:-1 group-title="BR Telecine" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR093TelecineAction.png" tvg-id="telecine.action.br" ,BR093:Telecine Action HD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/2439
+#EXTINF:-1 group-title="BR Telecine" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR246TelecineActionSD.png" tvg-id="telecine.action.br" ,BR246:Telecine Action SD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/65801
+#EXTINF:-1 group-title="BR Telecine" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR247TelecineCultFHD.png" tvg-id="telecine.cult.br" ,BR247:Telecine Cult FHD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/65802
+#EXTINF:-1 group-title="BR Telecine" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR094TelecineCult.png" tvg-id="telecine.cult.br" ,BR094:Telecine Cult HD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/2438
+#EXTINF:-1 group-title="BR Telecine" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR248TelecineCultSD.png" tvg-id="telecine.cult.br" ,BR248:Telecine Cult SD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/65803
+#EXTINF:-1 group-title="BR Telecine" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR249TelecineFunFHD.png" tvg-id="telecine.fun.br" ,BR249:Telecine Fun FHD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/65804
+#EXTINF:-1 group-title="BR Telecine" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR095TelecineFun.png" tvg-id="telecine.fun.br" ,BR095:Telecine Fun HD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/2437
+#EXTINF:-1 group-title="BR Telecine" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR250TelecineFunSD.png" tvg-id="telecine.fun.br" ,BR250:Telecine Fun SD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/65805
+#EXTINF:-1 group-title="BR Telecine" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR251TelecinePipocaFHD.png" tvg-id="telecine.pipoca.br" ,BR251:Telecine Pipoca FHD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/65806
+#EXTINF:-1 group-title="BR Telecine" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR096TelecinePipoca.png" tvg-id="telecine.pipoca.br" ,BR096:Telecine Pipoca HD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/2436
+#EXTINF:-1 group-title="BR Telecine" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR252TelecinePipocaSD.png" tvg-id="telecine.pipoca.br" ,BR252:Telecine Pipoca SD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/65807
+#EXTINF:-1 group-title="BR Telecine" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR253TelecinePremiumFHD.png" tvg-id="fox.premium.action.br" ,BR253:Telecine Premium FHD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/65808
+#EXTINF:-1 group-title="BR Telecine" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR097TelecinePremium.png" tvg-id="telecine.premium.br" ,BR097:Telecine Premium HD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/2435
+#EXTINF:-1 group-title="BR Telecine" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR254TelecinePremiumSD.png" tvg-id="telecine.premium.br" ,BR254:Telecine Premium SD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/65809
+#EXTINF:-1 group-title="BR Telecine" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR255TelecineTouchFHD.png" tvg-id="telecine.touch.br" ,BR255:Telecine Touch FHD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/65810
+#EXTINF:-1 group-title="BR Telecine" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR098TelecineTouch.png" tvg-id="telecine.touch.br" ,BR098:Telecine Touch HD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/2434
+#EXTINF:-1 group-title="BR Telecine" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR256TelecineTouchSD.png" tvg-id="telecine.touch.br" ,BR256:Telecine Touch SD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/65811
+#EXTINF:-1 group-title="BR Premiere" ,BR:-----|Canais Premiere|---------------------------------
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/66019
+#EXTINF:-1 group-title="BR Premiere" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR220Premiere2FHD.png" ,BR220:Premiere 2 FHD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/65775
+#EXTINF:-1 group-title="BR Premiere" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR075Premiere2.png" tvg-id="+.globosat.br" ,BR075:Premiere 2 HD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/2457
+#EXTINF:-1 group-title="BR Premiere" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR221Premiere2SD.png" ,BR221:Premiere 2 SD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/65776
+#EXTINF:-1 group-title="BR Premiere" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR076Premiere3.png" tvg-id="+.globosat.br" ,BR076:Premiere 3 HD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/2456
+#EXTINF:-1 group-title="BR Premiere" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR222Premiere3SD.png" ,BR222:Premiere 3 SD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/65777
+#EXTINF:-1 group-title="BR Premiere" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR223Premiere4FHD.png" ,BR223:Premiere 4 FHD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/65778
+#EXTINF:-1 group-title="BR Premiere" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR077Premiere4.png" tvg-id="+.globosat.br" ,BR077:Premiere 4 HD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/2455
+#EXTINF:-1 group-title="BR Premiere" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR224Premiere4SD.png" ,BR224:Premiere 4 SD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/65779
+#EXTINF:-1 group-title="BR Premiere" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR225Premiere5FHD.png" ,BR225:Premiere 5 FHD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/65780
+#EXTINF:-1 group-title="BR Premiere" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR078Premiere5.png" tvg-id="+.globosat.br" ,BR078:Premiere 5 HD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/2454
+#EXTINF:-1 group-title="BR Premiere" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR226Premiere5SD.png" ,BR226:Premiere 5 SD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/65781
+#EXTINF:-1 group-title="BR Premiere" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR227PremiereClubesFHD.png" ,BR227:Premiere Clubes FHD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/65782
+#EXTINF:-1 group-title="BR Premiere" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR081PremiereClubes.png" tvg-id="premiere.clubes.br" ,BR081:Premiere Clubes HD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/2451
+#EXTINF:-1 group-title="BR Premiere" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR228PremiereClubesSD.png" ,BR228:Premiere Clubes SD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/65783
+#EXTINF:-1 group-title="BR HBO" ,BR:-----|Canais Hbo|---------------------------------
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/66018
+#EXTINF:-1 group-title="BR HBO" tvg-id="hbo.br" ,BR189:Hbo FHD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/65744
+#EXTINF:-1 group-title="BR HBO" tvg-id="hbo.br" ,BR054:HBO HD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/2478
+#EXTINF:-1 group-title="BR HBO" tvg-id="hbo.br" ,BR193:Hbo SD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/65748
+#EXTINF:-1 group-title="BR HBO" tvg-id="hbo.2.br" ,BR186:Hbo 2 FHD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/65741
+#EXTINF:-1 group-title="BR HBO" tvg-id="hbo.2.br" ,BR052:HBO 2 HD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/2480
+#EXTINF:-1 group-title="BR HBO" tvg-id="hbo.2.br" ,BR187:Hbo 2 SD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/65742
+#EXTINF:-1 group-title="BR HBO" tvg-id="hbo.family.br" ,BR053:HBO Family HD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/2479
+#EXTINF:-1 group-title="BR HBO" tvg-id="hbo.family.br" ,BR188:Hbo family SD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/65743
+#EXTINF:-1 group-title="BR HBO" tvg-id="hbo.plus.br" ,BR191:Hbo Plus FHD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/65746
+#EXTINF:-1 group-title="BR HBO" tvg-id="hbo.plus.br" ,BR055:HBO Plus HD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/2477
+#EXTINF:-1 group-title="BR HBO" tvg-id="hbo.plus.br" ,BR192:Hbo Plus SD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/65747
+#EXTINF:-1 group-title="BR HBO" tvg-id="hbo.signature.br" ,BR194:Hbo Signature FHD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/65749
+#EXTINF:-1 group-title="BR HBO" tvg-id="hbo.signature.br" ,BR056:HBO Signature HD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/2476
+#EXTINF:-1 group-title="BR HBO" tvg-id="hbo.signature.br" ,BR195:Hbo Signature SD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/65750
+#EXTINF:-1 group-title="BR HBO" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR196HboXtremeFHD.png" tvg-id="hbo.xtreme.br" ,BR196:Hbo Xtreme FHD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/65751
+#EXTINF:-1 group-title="BR HBO" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR197HboXtremeSD.png" tvg-id="hbo.xtreme.br" ,BR197:Hbo Xtreme SD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/65752
+#EXTINF:-1 group-title="BR HBO" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR190HboMundiSD.png" tvg-id="hbo.mundi.br" ,BR190:Hbo Mundi SD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/65745
+#EXTINF:-1 group-title="BR Filmes e Series" ,BR:-----|Filmes e Series|---------------------------------
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/66011
+#EXTINF:-1 group-title="BR Filmes e Series" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR061Max.png" tvg-id="max.br" ,BR061:Max
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/2471
+#EXTINF:-1 group-title="BR Filmes e Series" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR062MaxPrime.png" tvg-id="max.prime.br" ,BR062:Max Prime
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/2470
+#EXTINF:-1 group-title="BR Filmes e Series" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR063MaxUp.png" tvg-id="max.up.br" ,BR063:Max Up
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/2469
+#EXTINF:-1 group-title="BR Filmes e Series" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR099TLCBR.png" tvg-id="tlc.br" ,BR099:TLC HD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/2433
+#EXTINF:-1 group-title="BR Filmes e Series" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR104AEFHD.png" tvg-id="a.e.br" ,BR104:A&E FHD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/65659
+#EXTINF:-1 group-title="BR Filmes e Series" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR001A&EBR.png" tvg-id="a.e.br" ,BR001:A&E HD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/2531
+#EXTINF:-1 group-title="BR Filmes e Series" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR105A&ESD.png" tvg-id="a.e.br" ,BR105:A&E SD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/65660
+#EXTINF:-1 group-title="BR Filmes e Series" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR106AMCFHD.png" tvg-id="amc.br" ,BR106:AMC FHD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/65661
+#EXTINF:-1 group-title="BR Filmes e Series" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR002AMCBR.png" tvg-id="amc.br" ,BR002:AMC HD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/2530
+#EXTINF:-1 group-title="BR Filmes e Series" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR107AMCSD.png" tvg-id="amc.br" ,BR107:AMC SD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/65662
+#EXTINF:-1 group-title="BR Filmes e Series" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR112AXNFHD.png" tvg-id="axn.br" ,BR112:AXN FHD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/65667
+#EXTINF:-1 group-title="BR Filmes e Series" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR005AXNBR.png" tvg-id="axn.br" ,BR005:AXN HD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/2527
+#EXTINF:-1 group-title="BR Filmes e Series" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR113AXNSD.png" tvg-id="axn.br" ,BR113:AXN SD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/65668
+#EXTINF:-1 group-title="BR Filmes e Series" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR122CinemaxFHD.png" tvg-id="cinemax.br" ,BR122:Cinemax FHD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/65677
+#EXTINF:-1 group-title="BR Filmes e Series" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR014CinemaxBR.png" tvg-id="cinemax.br" ,BR014:Cinemax HD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/2518
+#EXTINF:-1 group-title="BR Filmes e Series" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR123CinemaxSD.png" tvg-id="cinemax.br" ,BR123:Cinemax SD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/65678
+#EXTINF:-1 group-title="BR Filmes e Series" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR162FoxFHD.png" ,BR162:Fox FHD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/65717
+#EXTINF:-1 group-title="BR Filmes e Series" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR038FoxBR.png" tvg-id="fox.br" ,BR038:Fox HD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/2494
+#EXTINF:-1 group-title="BR Filmes e Series" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR168FoxSD.png" ,BR168:Fox SD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/65723
+#EXTINF:-1 group-title="BR Filmes e Series" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR044FXBR.png" tvg-id="fx.br" ,BR044:FX HD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/2488
+#EXTINF:-1 group-title="BR Filmes e Series" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR173FxFHD.png" ,BR173:Fx FHD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/65728
+#EXTINF:-1 group-title="BR Filmes e Series" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR174FxSD.png" ,BR174:Fx SD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/65729
+#EXTINF:-1 group-title="BR Filmes e Series" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR064MegaPix.png" tvg-id="megapix.br" ,BR064:MegaPix HD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/2468
+#EXTINF:-1 group-title="BR Filmes e Series" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR218ParamountChannelFHD.png" ,BR218:Paramount Channel FHD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/65773
+#EXTINF:-1 group-title="BR Filmes e Series" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR074ParamountBR.png" tvg-id="paramount.br" ,BR074:Paramount Channel HD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/2458
+#EXTINF:-1 group-title="BR Filmes e Series" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR219ParamountChannelSD.png" ,BR219:Paramount Channel SD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/65774
+#EXTINF:-1 group-title="BR Filmes e Series" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR232SpaceFHD.png" ,BR232:Space FHD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/65787
+#EXTINF:-1 group-title="BR Filmes e Series" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR086SpaceBR.png" tvg-id="space.br" ,BR086:Space HD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/2446
+#EXTINF:-1 group-title="BR Filmes e Series" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR233SpaceSD.png" ,BR233:Space SD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/65788
+#EXTINF:-1 group-title="BR Filmes e Series" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR240StudioUniversalFHD.png" ,BR240:Studio Universal FHD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/65795
+#EXTINF:-1 group-title="BR Filmes e Series" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR090StudioUniversal.png" tvg-id="studio.universal.br" ,BR090:Studio Universal HD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/2442
+#EXTINF:-1 group-title="BR Filmes e Series" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR241StudioUniversalSD.png" ,BR241:Studio Universal SD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/65796
+#EXTINF:-1 group-title="BR Filmes e Series" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR242SyfyFHD.png" ,BR242:Syfy FHD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/65797
+#EXTINF:-1 group-title="BR Filmes e Series" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR091SYFYBR.png" tvg-id="syfy.br" ,BR091:SYFY HD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/2441
+#EXTINF:-1 group-title="BR Filmes e Series" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR243SyfySD.png" ,BR243:Syfy SD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/65798
+#EXTINF:-1 group-title="BR Filmes e Series" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR244TbsSD.png" ,BR244:Tbs FHD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/65799
+#EXTINF:-1 group-title="BR Filmes e Series" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR092TBSBR.png" tvg-id="tbs.br" ,BR092:TBS HD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/2440
+#EXTINF:-1 group-title="BR Filmes e Series" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR082WarnerChannel.png" tvg-id="warner.br" ,BR082:Warner Channel HD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/2450
+#EXTINF:-1 group-title="BR Filmes e Series" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR267WarnerChannelSD.png" ,BR267:Warner Channel SD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/65822
+#EXTINF:-1 group-title="BR Filmes e Series" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR100TNTBR.png" tvg-id="tnt.br" ,BR100:TNT HD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/2432
+#EXTINF:-1 group-title="BR Filmes e Series" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR259TNTSeriesFHD.png" ,BR259:TNT Series FHD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/65814
+#EXTINF:-1 group-title="BR Filmes e Series" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR101TNTSeriesBR.png" tvg-id="tnt.series.br" ,BR101:TNT Series  HD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/2431
+#EXTINF:-1 group-title="BR Filmes e Series" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR260TNTSeriesSD.png" ,BR260:TNT Series SD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/65815
+#EXTINF:-1 group-title="BR Filmes e Series" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR261UniversalChannelFHD.png" ,BR261:Universal Channel FHD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/65816
+#EXTINF:-1 group-title="BR Filmes e Series" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR103Universal.png" tvg-id="universal.br" ,BR103:Universal Channel HD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/2429
+#EXTINF:-1 group-title="BR Filmes e Series" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR262UniversalChannelSD.png" ,BR262:Universal Channel SD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/65817
+#EXTINF:-1 group-title="BR Filmes e Series" ,BR272:CANAL BRASIL
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/66008
+#EXTINF:-1 group-title="BR Abertos" ,BR:-----|Canais Abertos|---------------------------------
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/66017
+#EXTINF:-1 group-title="BR Abertos" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR006BandBR.png" tvg-id="band.br" ,BR006:Band HD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/2526
+#EXTINF:-1 group-title="BR Abertos" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR036TVRecord.png" tvg-id="record.br" ,BR036:TV Record HD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/2496
+#EXTINF:-1 group-title="BR Abertos" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR083Record.png" tvg-id="record.br" ,BR083:Record Amazonas
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/2449
+#EXTINF:-1 group-title="BR Abertos" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR084RedeTV.png" tvg-id="rede.brasil.br" ,BR084:Rede TV HD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/2448
+#EXTINF:-1 group-title="BR Abertos" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR230SbtFHD.png" tvg-id="sbt.br" ,BR230:Sbt FHD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/65785
+#EXTINF:-1 group-title="BR Abertos" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR085SBT.png" tvg-id="sbt.br" ,BR085:SBT HD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/2447
+#EXTINF:-1 group-title="BR Abertos" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR231SbtSD.png" tvg-id="sbt.br" ,BR231:Sbt SD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/65786
+#EXTINF:-1 group-title="BR Abertos" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR229RedeTVSD.png" tvg-id="tv.brasil.br" ,BR229:Tv Brasil
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/65784
+#EXTINF:-1 group-title="BR Rede Globo" tvg-id="globo.sp.br" ,BR080:Globo SP
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/2452
+#EXTINF:-1 group-title="BR Rede Globo" tvg-id="globo.bahia.br" ,BR178:Globo Amazonas
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/65733
+#EXTINF:-1 group-title="BR Rede Globo" ,BR:-----|Rede Globo|---------------------------------
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/66015
+#EXTINF:-1 group-title="BR Rede Globo" tvg-id="globo.rbs.poa.br" ,BR046:Globo Rbs Porto Alegre
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/2486
+#EXTINF:-1 group-title="BR Rede Globo" tvg-id="globo.br" ,BR048:Globo HD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/2484
+#EXTINF:-1 group-title="BR Rede Globo" tvg-id="globo.rj.br" ,BR047:Globo RJ HD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/2485
+#EXTINF:-1 group-title="BR Rede Globo" tvg-id="globo.rj.br" ,BR179:GLOBO MINAS
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/65734
+#EXTINF:-1 group-title="BR Rede Globo" ,BR270:Globo Nordeste HD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/66006
+#EXTINF:-1 group-title="BR Rede Globo" ,BR271:Globo Rio HD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/66007
+#EXTINF:-1 group-title="BR Noticias" ,BR:-----|Noticias|-----------------------
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/66165
+#EXTINF:-1 group-title="BR Noticias" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR079Premiere6.png" tvg-id="cnn.br" ,BR079:CNN BRASIL HD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/2453
+#EXTINF:-1 group-title="BR Noticias" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR007BandNewsBR.png" tvg-id="band.news.br" ,BR007:Band News HD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/2525
+#EXTINF:-1 group-title="BR Noticias" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR177GloboNewsSD.png" tvg-id="globo.news.br" ,BR177:Globo News SD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/65732
+#EXTINF:-1 group-title="BR Noticias" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR176GloboNewsFHD.png" tvg-id="globo.news.br" ,BR176:Globo News FHD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/65731
+#EXTINF:-1 group-title="BR Noticias" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR045GloboNewsBR.png" tvg-id="globo.news.br" ,BR045:Globo News HD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/2487
+#EXTINF:-1 group-title="BR Infantis" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR102TVRaTimBum.png" tvg-id="ra.tim.bum.br" ,BR102:TV Ra Tim Bum
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/2430
+#EXTINF:-1 group-title="BR Infantis" ,BR:-----|Infantis|---------------------------------
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/66016
+#EXTINF:-1 group-title="BR Infantis" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR017BabyTV.png" tvg-id="baby.br" ,BR017:Baby TV HD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/2515
+#EXTINF:-1 group-title="BR Infantis" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR114BabytvSD.png" tvg-id="baby.br" ,BR114:Baby tv SD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/65669
+#EXTINF:-1 group-title="BR Infantis" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR118BoomerangFHD.png" tvg-id="boomerang.br" ,BR118:Boomerang FHD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/65673
+#EXTINF:-1 group-title="BR Infantis" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR011BoomerangBR.png" tvg-id="boomerang.br" ,BR011:Boomerang HD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/2521
+#EXTINF:-1 group-title="BR Infantis" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR119BoomerangSD.png" tvg-id="boomerang.br" ,BR119:Boomerang SD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/65674
+#EXTINF:-1 group-title="BR Infantis" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR120CartoonNetworkFHD.png" tvg-id="cartoon.network.br" ,BR120:Cartoon Network FHD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/65675
+#EXTINF:-1 group-title="BR Infantis" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR013CartoonNetworkBR.png" tvg-id="cartoon.network.br" ,BR013:Cartoon Network HD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/2519
+#EXTINF:-1 group-title="BR Infantis" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR121CartoonNetworkSD.png" tvg-id="cartoon.network.br" ,BR121:Cartoon Network SD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/65676
+#EXTINF:-1 group-title="BR Infantis" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR028DisneyXDBR.png" tvg-id="disney.xd.br" ,BR028:Disney XD HD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/2504
+#EXTINF:-1 group-title="BR Infantis" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR027DISNEYJRBR.png" tvg-id="disney.junior.br" ,BR027:DISNEY JR HD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/2505
+#EXTINF:-1 group-title="BR Infantis" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR147DisneyChannelFHD.png" tvg-id="disney.br" ,BR147:Disney Channel FHD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/65702
+#EXTINF:-1 group-title="BR Infantis" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR026DisneyBR.png" tvg-id="disney.br" ,BR026:Disney HD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/2506
+#EXTINF:-1 group-title="BR Infantis" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR148DisneyChannelSD.png" tvg-id="disney.br" ,BR148:Disney Channel SD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/65703
+#EXTINF:-1 group-title="BR Infantis" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR069NATGEOKidsBR.png" tvg-id="nat.geo.kids.br" ,BR069:NAT GEO Kids HD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/2463
+#EXTINF:-1 group-title="BR Infantis" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR211NatGeoKidsSD.png" tvg-id="nat.geo.kids.br" ,BR211:Nat Geo Kids SD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/65766
+#EXTINF:-1 group-title="BR Infantis" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR049Gloobinho.png" tvg-id="gloobinho.br" ,BR049:Gloobinho HD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/2483
+#EXTINF:-1 group-title="BR Infantis" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR136DiscoveryKidsFHD.png" tvg-id="discovery.kids.br" ,BR136:Discovery Kids FHD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/65691
+#EXTINF:-1 group-title="BR Infantis" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR021DiscoveryKids.png" tvg-id="discovery.kids.br" ,BR021:Discovery Kids HD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/2511
+#EXTINF:-1 group-title="BR Infantis" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR137DiscoveryKidsSD.png" tvg-id="discovery.kids.br" ,BR137:Discovery Kids SD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/65692
+#EXTINF:-1 group-title="BR Infantis" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR214NickJRFHD.png" tvg-id="nick.jr.br" ,BR214:Nick JR FHD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/65769
+#EXTINF:-1 group-title="BR Infantis" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR071NICKJRBR.png" tvg-id="nick.jr.br" ,BR071:NICK JR HD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/2461
+#EXTINF:-1 group-title="BR Infantis" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR215NickJRSD.png" tvg-id="nick.jr.br" ,BR215:Nick JR SD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/65770
+#EXTINF:-1 group-title="BR Infantis" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR072NickelodeonBR.png" tvg-id="a.e.br" ,BR072:Nickelodeon FHD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/2460
+#EXTINF:-1 group-title="BR Infantis" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR216NickelodeonSD.png" ,BR216:Nickelodeon SD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/65771
+#EXTINF:-1 group-title="BR Infantis" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR182GloobinhoSD.png" tvg-id="gloobinho.br" ,BR182:Gloobinho SD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/65737
+#EXTINF:-1 group-title="BR Infantis" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR180GloobFHD.png" tvg-id="gloob.br" ,BR180:Gloob FHD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/65735
+#EXTINF:-1 group-title="BR Infantis" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR181GloobSD.png" tvg-id="gloob.br" ,BR181:Gloob SD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/65736
+#EXTINF:-1 group-title="BR Variedades" ,BR:-----|Variedades|---------------------------------
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/66014
+#EXTINF:-1 group-title="BR Variedades" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR128comedycentralFHD.png" tvg-id="comedy.central.br" ,BR128:comedy central FHD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/65683
+#EXTINF:-1 group-title="BR Variedades" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR016ComedyCentralBR.png" tvg-id="comedy.central.br" ,BR016:Comedy Central HD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/2516
+#EXTINF:-1 group-title="BR Variedades" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR129comedycentralSD.png" tvg-id="comedy.central.br" ,BR129:comedy central SD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/65684
+#EXTINF:-1 group-title="BR Variedades" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR134DiscoveryHomeHealthFHD.png" tvg-id="discovery.home.health.br" ,BR134:Discovery Home & Health FHD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/65689
+#EXTINF:-1 group-title="BR Variedades" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR020DiscoveryHomeHealth.png" tvg-id="discovery.home.health.br" ,BR020:Discovery Home Health HD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/2512
+#EXTINF:-1 group-title="BR Variedades" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR029E!BR.png" tvg-id="e.br" ,BR029:E! HD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/2503
+#EXTINF:-1 group-title="BR Variedades" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR153E!SD.png" tvg-id="e.br" ,BR153:E! SD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/65708
+#EXTINF:-1 group-title="BR Variedades" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR135DiscoveryHomeHealthSD.png" tvg-id="discovery.home.health.br" ,BR135:Discovery Home & Health SD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/65690
+#EXTINF:-1 group-title="BR Variedades" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR160FoodNetworkFHD.png" tvg-id="food.network.br" ,BR160:Food Network FHD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/65715
+#EXTINF:-1 group-title="BR Variedades" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR037FoodNetworkBR.png" tvg-id="food.network.br" ,BR037:Food Network HD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/2495
+#EXTINF:-1 group-title="BR Variedades" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR161FoodNetworkSD.png" tvg-id="food.network.br" ,BR161:Food Network SD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/65716
+#EXTINF:-1 group-title="BR Variedades" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR039FoxLife.png" tvg-id="fox.life.br" ,BR039:Fox Life HD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/2493
+#EXTINF:-1 group-title="BR Variedades" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR163FoxLifeSD.png" tvg-id="fox.life.br" ,BR163:Fox Life SD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/65718
+#EXTINF:-1 group-title="BR Variedades" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR060MaisGlobosat.png" tvg-id="mais.globosat.br" ,BR060:Mais Globosat
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/2472
+#EXTINF:-1 group-title="BR Variedades" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR050GNTBR.png" tvg-id="gnt.br" ,BR050:GNT HD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/2482
+#EXTINF:-1 group-title="BR Variedades" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR183GntSD.png" tvg-id="gnt.br" ,BR183:Gnt SD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/65738
+#EXTINF:-1 group-title="BR Variedades" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR059LifetimeBR.png" tvg-id="lifetime.br" ,BR059:Lifetime HD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/2473
+#EXTINF:-1 group-title="BR Variedades" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR264VivaFHD.png" tvg-id="viva.br" ,BR264:Viva FHD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/65819
+#EXTINF:-1 group-title="BR Variedades" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR035VIVABR.png" tvg-id="viva.br" ,BR035:VIVA HD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/2497
+#EXTINF:-1 group-title="BR Variedades" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR265VivaSD.png" tvg-id="viva.br" ,BR265:Viva SD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/65820
+#EXTINF:-1 group-title="BR Variedades" tvg-id="rede.vida.br" ,BR273:REDE VIDA HD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/49959
+#EXTINF:-1 group-title="BR Musicas" ,BR:-----|Musicas|--------------------------
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/66168
+#EXTINF:-1 group-title="BR Musicas" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR010BISBR.png" tvg-id="bis.br" ,BR010:BIS HD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/2522
+#EXTINF:-1 group-title="BR Musicas" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR065MTVBR.png" tvg-id="mtv.br" ,BR065:MTV HD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/2467
+#EXTINF:-1 group-title="BR Musicas" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR066Multishow.png" tvg-id="multishow.br" ,BR066:Multishow HD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/2466
+#EXTINF:-1 group-title="BR Musicas" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR067MusicBox.png" tvg-id="music.box.brasil.br" ,BR067:BG MUSIC HD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/2465
+#EXTINF:-1 group-title="BR Musicas" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR009VH1BR.png" tvg-id="vh1.br" ,BR009:Tooncast
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/2523
+#EXTINF:-1 group-title="BR Musicas" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR205MtvFHD.png" tvg-id="mtv.br" ,BR205:Mtv FHD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/65760
+#EXTINF:-1 group-title="BR Musicas" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR207MultishowFHD.png" tvg-id="multishow.br" ,BR207:Multishow FHD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/65762
+#EXTINF:-1 group-title="BR Musicas" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR209MusicBoxSD.png" tvg-id="music.box.brasil.br" ,BR209:Music Box SD
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/65764
+#EXTINF:-1 group-title="BR 24 Horas" ,BR:-----|24 Horas|---------------------------------
+http://mxu03.wanicelife.com:8880/12mmk050067/66373912/66020
