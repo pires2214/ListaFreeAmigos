@@ -2511,3 +2511,184 @@ http://brqnt.pro:2082/ana5744/447831425744/18285
 http://brqnt.pro:2082/ana5744/447831425744/35153
 #EXTINF:0 tvg-id="ext" group-title="CANAIS | TELECINE",TELECINE TOUCH SD¹
 http://brqnt.pro:2082/ana5744/447831425744/17992
+#EXTM3U
+#EXTINF:-1 group-title="Brazil" tvg-name="USA Network Brazil" ,USA Network 🇧🇷
+http://globo.xphost18.xyz:2052/live/Xxcanal665/Hftuiu678i/90.ts
+#EXTINF:-1 group-title="Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/PrimeBoxBrazil2019.png" tvg-id="PrimeBoxBrazil.br" tvg-name="Prime Box Brazil" ,Prime Box Brazil 🇧🇷
+http://globo.xphost18.xyz:2052/live/Xxcanal665/Hftuiu678i/102.ts
+#EXTINF:-1 group-title="Brazil" tvg-id="ParamountNetwork.br" ,Paramount Network 🇧🇷
+http://globo.xphost18.xyz:2052/live/Xxcanal665/Hftuiu678i/103.ts
+#EXTINF:-1 group-title="Brazil" tvg-id="HBO.br" ,HBO 🇧🇷
+http://globo.xphost18.xyz:2052/live/Xxcanal665/Hftuiu678i/111.m3u8
+#EXTINF:-1 group-title="Brazil" tvg-id="HBOPlus.br" ,HBO+ 🇧🇷
+http://globo.xphost18.xyz:2052/live/Xxcanal665/Hftuiu678i/114.m3u8
+#EXTINF:-1 group-title="Brazil" tvg-id="HBOPop.br" ,HBO Pop 🇧🇷
+http://globo.xphost18.xyz:2052/live/Xxcanal665/Hftuiu678i/108.m3u8
+#EXTINF:-1 group-title="Brazil" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/hbomundi.png" tvg-id="HBOMundi.br" ,HBO Mundi 🇧🇷
+http://globo.xphost18.xyz:2052/live/Xxcanal665/Hftuiu678i/110.m3u8
+#EXTINF:-1 group-title="Brazil" tvg-id="HBOSignature.br" ,HBO Signatureᴴᴰ 🇧🇷
+http://globo.xphost18.xyz:2052/live/Xxcanal665/Hftuiu678i/107.m3u8
+#EXTINF:-1 group-title="Brazil" tvg-logo="http://cplog.xyz/hboxtreme.png" tvg-id="HBOXtreme.br" ,HBO Xtreamᴴᴰ 🇧🇷 (Leg) 🟡
+http://globo.xphost18.xyz:2052/live/Xxcanal665/Hftuiu678i/106.m3u8
+#EXTINF:-1 group-title="Brazil" tvg-id="TelecineTouch.br" ,Telecine touchᴴᴰ 🇧🇷
+http://globo.xphost18.xyz:2052/live/Xxcanal665/Hftuiu678i/92.ts
+#EXTINF:-1 group-title="Brazil" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/62/Telecine_Action_%282021%29.png" tvg-id="TelecineAction.br" ,Telecine Actionᴴᴰ 🇧🇷
+http://64.31.40.14:14056/TelecineAction
+#EXTINF:-1 group-title="Brazil" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/62/Telecine_Action_%282021%29.png" tvg-id="TelecineAction.br" ,Telecine Actionᴴᴰ 🇧🇷
+http://199.127.60.83:16056/TelecineAction
+#EXTINF:-1 group-title="Brazil" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/Telecine_Pipoca_%282021%29.png" tvg-id="TelecinePipoca.br" ,Telecine Pipocaᴴᴰ 🇧🇷
+http://globo.xphost18.xyz:2052/live/Xxcanal665/Hftuiu678i/94.m3u8
+#EXTINF:-1 group-title="Brazil" tvg-logo="https://bravi.tv/wp-content/uploads/2016/12/europa-filmes-214x214.png" ,Europa Play Filmes Nacionaisᴴᴰ 🇧🇷
+https://cdn-2.nxplay.com.br/europaplay/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Brazil" tvg-logo="https://canalmegapix.com.br/static/images/logo-mpx-desktop.png" tvg-id="Megapix.br" ,Megapixᴴᴰ 🇧🇷
+http://64.31.40.14:14048/Megapix
+#EXTINF:-1 group-title="Brazil" tvg-logo="http://i.imgur.com/wBvHWB7.png" tvg-name="TNT Novelas" ,TNT Novelasᴴᴰ 🇧🇷
+http://51.79.17.168:14613/tntnovelas
+#EXTINF:-1 group-title="Brazil" tvg-logo="http://i.imgur.com/wBvHWB7.png" tvg-name="TNT Novelas" ,TNT Novelasᴴᴰ 🇧🇷
+http://globo.xphost18.xyz:2052/live/Xxcanal665/Hftuiu678i/88.m3u8
+#EXTINF:-1 group-title="Brazil" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/FX.svg" tvg-id="FX.br" tvg-name="FX.br" ,FXᴴᴰ 🇧🇷
+http://199.127.60.83:16043/FX
+#EXTINF:-1 group-title="Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/FX_International_logo.svg" tvg-id="FX.br" tvg-name="FX.br" ,FX 🇧🇷
+http://64.31.40.14:14043/FX
+#EXTINF:-1 group-title="Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Cinemax_%28Yellow%29.svg" tvg-id="Cinemax.br" ,CineMaxᴴᴰ 🇧🇷
+http://64.31.40.14:14031/CineMax
+#EXTINF:-1 group-title="Brazil" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/SonyChannel.png" tvg-name="SonyChannel.br" ,Sony Channelᴴᴰ 🇧🇷
+http://199.127.60.83:16063/SonyChannel
+#EXTINF:-1 group-title="Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Logo_Studio_Universal.svg" tvg-id="StudioUniversal.br" ,Studio Universalᴴᴰ 🇧🇷
+http://globo.xphost18.xyz:2052/live/Xxcanal665/Hftuiu678i/100.m3u8
+#EXTINF:-1 group-title="Brazil" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/AMC.png" tvg-id="AMC.br" ,AMCᴴᴰ 🇧🇷
+http://globo.xphost18.xyz:2052/live/Xxcanal665/Hftuiu678i/120.m3u8
+#EXTINF:-1 group-title="Brazil" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/AMC.png" tvg-id="AMC.br" ,AMCᴴᴰ 🇧🇷
+http://199.127.60.83:16004/AMC
+#EXTINF:-1 group-title="Brazil" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/A%26E.png" tvg-id="AE.br" ,A&Eᴴᴰ 🇧🇷
+http://199.127.60.83:16002/A&E
+#EXTINF:-1 group-title="Brazil" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/National%20Geographic.png" tvg-id="NationalGeographic.br" ,Nat Geographicᴴᴰ 🇧🇷
+http://84.17.44.179:14635/NatGeo
+#EXTINF:-1 group-title="Brazil" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Animal%20Planet.png" tvg-id="AnimalPlanet.br" ,Animal Planet Discᴴᴰ 🇧🇷
+http://199.127.60.83:16192/AnimalPlanet
+#EXTINF:-1 group-title="Brazil" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/brasil/multi-show-hd.png" tvg-id="Multishow.br" tvg-name="Multishow" ,Multishowᴴᴰ 🇧🇷
+http://globo.balance-test.xyz:2052/JgfgjjbcfyyDFD/678888yygfFFD/24
+#EXTINF:-1 group-title="Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Canal_Viva_2018_wordmark.svg" tvg-id="Viva.br" tvg-name="VIVA" ,Vivaᴴᴰ 🇧🇷
+http://64.31.40.14:14884/viva
+#EXTINF:-1 group-title="Brazil" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/globo.png" tvg-id="TVGloboSaoPaulo.br" ,Globo sᴘ ᶠᴴᴰ 🇧🇷
+http://64.31.40.14:14020/GLOBOSP
+#EXTINF:-1 group-title="Brazil" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/globo.png" tvg-id="TVGloboSaoPaulo.br" ,Globo sᴘ ᴴᴰ 🇧🇷
+https://cdn-2.nxplay.com.br/GLOBO_SP_TK/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Brazil" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" tvg-id="SBTNacional.br" tvg-name="SBT" ,SBTᴴᴰ 🇧🇷
+https://stream.amsolution.net.br:8443/live/60ce4ae4b9d4c/index.m3u8
+#EXTINF:-1 group-title="Brazil" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" tvg-id="SBTNacional.br" tvg-name="SBT" ,SBTᴴᴰ 🇧🇷
+https://ythls.armelin.one/channel/UCsRfBAspa72ExrsN347W2xg.m3u8
+#EXTINF:-1 group-title="Brazil" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/recordtv.png" tvg-id="Record.br" ,Record tv ᴍᴛᴴᴰ 🇧🇷
+http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8
+#EXTINF:-1 group-title="Brazil" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/recordtv.png" tvg-id="Record.br" ,Record tv sᴘᴴᴰ 🇧🇷
+https://cdn-1.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Brazil" tvg-logo="https://canalcurta.tv.br/assets/img/logo_canalcurta.png?v=1.001" tvg-id="Curta.br" tvg-name="curta" ,Curta!ᴴᴰ 🇧🇷
+https://bit.ly/3qaKU0h?profile=inspirationFreetv.m3u8
+#EXTINF:-1 group-title="Brazil" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/band.png" tvg-id="Band.br" ,BANDᴴᴰ 🇧🇷
+https://cdn-2.nxplay.com.br/BAND_HD_PFZ_NX/index.m3u8
+#EXTINF:-1 group-title="Brazil" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/band.png" tvg-id="Band.br" ,BANDᴴᴰ 🇧🇷
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w1464711203.m3u8
+#EXTINF:-1 group-title="Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TV_Gazeta.svg/1200px-TV_Gazeta.svg.png" tvg-id="TV Gazeta.br" ,Tv Gazetaᴴᴰ 🇧🇷
+https://video02.logicahost.com.br/tvc21/tvc21/playlist.m3u8
+#EXTINF:-1 group-title="Brazil" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/zoom.png" tvg-id="Zoomoo.br" ,Zoom tv 🇧🇷
+https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/chunklist.m3u8
+#EXTINF:-1 group-title="Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png" tvg-id="Rede TV.br" ,RedeTVᴴᴰ 🇧🇷 🟤
+https://bit.ly/48lKogj?profile=inspirationFreetv.m3u8
+#EXTINF:-1 group-title="Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png" tvg-id="Rede TV.br" ,RedeTV ᴘʀᴴᴰ 🇧🇷 🟤
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4555
+#EXTINF:-1 group-title="Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png" tvg-id="Rede TV.br" ,RedeTV ᴘʀᴴᴰ 🇧🇷
+https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
+#EXTINF:-1 group-title="Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png" tvg-name="RedeTV! Tocantins" ,RedeTV! Tocantinsᴴᴰ 🇧🇷
+https://59f1cbe63db89.streamlock.net:1443/redetvro/redetvro/chunklist_w1575676158.m3u8
+#EXTINF:-1 group-title="Brazil" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/BraziTV.png" tvg-id="TV Brasil.br" ,BraziTV 🇧🇷
+https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
+#EXTINF:-1 group-title="Brazil" tvg-logo="https://pbs.twimg.com/profile_images/1636079155430211588/e2mDBPJQ_400x400.jpg" ,TV Zynᴴᴰ 🇧🇷
+https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5w3mfvzg9saoi/playlist.m3u8
+#EXTINF:-1 group-title="Brazil" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/vivaweb.webp" tvg-name="Viva Web" ,Viva wᴇʙ 🇧🇷
+https://video01.kshost.com.br/cypriano46326/cypriano46326/chunklist_w53904826.m3u8
+#EXTINF:-1 group-title="Brazil" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/TvEscola.png" tvg-id="TV Escola.br" ,Tv Escola sᴅ 🇧🇷
+https://5c483b9d1019c.streamlock.net/8054/8054/chunklist_w648759078.m3u8
+#EXTINF:-1 group-title="Brazil" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/globonews.png" tvg-id="GloboNews.br" ,Globo Newsᴴᴰ 🇧🇷
+http://209.222.97.92:16436/BloboNews
+#EXTINF:-1 group-title="Brazil" tvg-logo="https://github.com/inspirationlinks/m3u/raw/8ff37d59ca68a1cb7159d1090437a73d50c954c5/Logos/RecordNews.svg" tvg-id="RecordNews.br" ,Record Newsᴴᴰ 🇧🇷 🟤
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2116
+#EXTINF:-1 group-title="Brazil" tvg-logo="https://github.com/inspirationlinks/m3u/raw/8ff37d59ca68a1cb7159d1090437a73d50c954c5/Logos/RecordNews.svg" tvg-id="RecordNews.br" ,Record Newsᴴᴰ 🇧🇷 🟤
+https://bit.ly/3W0rqcE?profile=inspirationFreetv.m3u8
+#EXTINF:-1 group-title="Brazil" tvg-logo="https://github.com/inspirationlinks/m3u/raw/8ff37d59ca68a1cb7159d1090437a73d50c954c5/Logos/RecordNews.svg" tvg-id="RecordNews.br" ,Record Newsᴴᴰ 🇧🇷
+https://r-br.nxtv.com.br/rnw/rn/rnw_rn.m3u8
+#EXTINF:-1 group-title="Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/CNN_Brasil.svg" tvg-id="cnn.brasil.br" ,CNN Brasilᴴᴰ 🇧🇷
+https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 group-title="Brazil" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/bandnews.png" tvg-id="BandNews.br" ,BAND Newsᴴᴰ 🇧🇷
+https://cdn2.connectbr.com.br/Band-News/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Brazil" tvg-logo="https://jovempan.com.br/wp-content/themes/jovempan/assets/build/images/jp-news-logo.png" tvg-id="JP News" ,JP Newsᴴᴰ 🇧🇷
+https://d9tard1jbwri9.cloudfront.net/playlist1080p.m3u8
+#EXTINF:-1 group-title="Brazil" tvg-logo="https://jovempan.com.br/wp-content/themes/jovempan/assets/build/images/jp-news-logo.png" tvg-id="JP News" ,JP Newsᴴᴰ 🇧🇷
+https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_10.m3u8
+#EXTINF:-1 group-title="Brazil" tvg-logo="http://canalnewbrasil.com.br/img/logo.svg" tvg-id="697" ,New Brasilᴴᴰ 🇧🇷
+https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7pakstinpyajo/playlist.m3u8
+#EXTINF:-1 group-title="Brazil" tvg-logo="http://canalnewbrasil.com.br/img/logo.svg" ,New Brasilᴴᴰ 🇧🇷
+https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7pakstinpyajo/playlist.m3u8
+#EXTINF:-1 group-title="Brazil" tvg-logo="https://live.staticflickr.com/2053/2308291877_4e9d0bd251_c.jpg" ,Avança Brasilᴴᴰ 🇧🇷
+https://video01.soultv.com.br/avancabrasil/avancabrasil/playlist.m3u8
+#EXTINF:-1 group-title="Brazil" tvg-logo="https://programa4por4.com/wp-content/uploads/2022/02/Icon-4por4-512x512-01.png" ,4 POR 4 🇧🇷
+https://video01.soultv.com.br/programa4por4/programa4por4/playlist.m3u8
+#EXTINF:-1 group-title="Brazil" tvg-logo="https://i.imgur.com/yVux2yk.png" ,Resumo da Ópera 🇧🇷
+https://011news.akamaized.net/011news/011news/chunklist_720p.m3u8
+#EXTINF:-1 group-title="Brazil" tvg-logo="https://imgur.com/63xr9fk.png" ,24h News 🇧🇷
+http://cdn.connectbr.com.br/24_news/index.m3u8
+#EXTINF:-1 group-title="Brazil" tvg-logo="https://imgur.com/56l2uCS.png" ,TV Correio 🇧🇷
+https://ythls.armelin.one/channel/UCJ4uxK_mo6gNoqk9cyvgWkw.m3u8
+#EXTINF:-1 group-title="Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logotipo_da_O_Dia_TV.png" ,O Dia tv
+https://ythlsgo.onrender.com/channel/UCKnMcgDLxDeq9HqUgLhtYbQ.m3u8
+#EXTINF:-1 group-title="Brazil" tvg-logo="http://i.imgur.com/gQ4GDzQ.png" ,TVE 🇧🇷
+http://streaming.procergs.com.br:1935/tve/stve/chunklist.m3u8
+#EXTINF:-1 group-title="Brazil" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/D%2Btv.png" ,D+ TV 🇧🇷
+https://stmv1.samcast.com.br/demaistv6503/demaistv6503/chunklist_w916705553.m3u8
+#EXTINF:-1 group-title="Brazil" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/tvLondres.png" ,Tv Londres
+https://cdn2.connectbr.com.br/oxtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Brazil" tvg-logo="https://sck.pm/0RIi" ,Mega Fatos 🇧🇷
+https://59f1cbe63db89.streamlock.net:1443/mundotv2/_definst_/mundotv2/chunklist_w1313069576.m3u8
+#EXTINF:-1 group-title="Brazil" tvg-logo="https://pa-str.srvsite.com/arquivos/7257/cabecalho-7257-20211110000046.jpg" ,Tv Nova Play 🇧🇷
+https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w900580339.m3u8
+#EXTINF:-1 group-title="Brazil" tvg-logo="https://www.soultv.com.br/wp-content/uploads/2022/02/SOUL-TV-LOGO-metalico.png" ,Soul Cine Clube 🇧🇷
+https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
+#EXTINF:-1 group-title="Brazil" tvg-logo="https://www.mastershowtv.com/public/30116-2023-11-08.png" ,Master show tv 🇧🇷
+https://mastershowtv.videovox.pw/master6123/master6123/chunklist_w1213877706.m3u8
+#EXTINF:-1 group-title="Brazil" tvg-logo="https://i.pinimg.com/280x280_RS/8b/86/22/8b86223eee0d9cb0e735dc32739356b6.jpg" ,Miss Universo 🇧🇷
+🔰 🇧🇷 PLATAFORMAS DE FREE STREAMING 🇧🇷 🔰
+#EXTINF:-1 group-title="Brazil" tvg-logo="https://conteudo.imguol.com.br/c/play/logo_canaluol.svg" ,Canal UOLᴴᴰ 🇧🇷 🟤
+https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-07et6wc1z29gv/index.m3u8
+#EXTINF:-1 group-title="Brazil" tvg-logo="https://images.pluto.tv/channels/6014761dfb91870008ea6463/colorLogoPNG.png" tvg-id="6014761dfb91870008ea6463" ,Turboᴴᴰ 🇧🇷 🟤
+https://bit.ly/3O1CTE0?profile=inspirationFreetv.m3u8
+#EXTINF:-1 group-title="Brazil" tvg-logo="https://images.pluto.tv/channels/5f32d2db0af67400077f29c4/colorLogoPNG.png" tvg-id="5f32d2db0af67400077f29c4" ,Esporteᴴᴰ 🇧🇷 🟤
+https://r.mjh.nz/PlutoTV/5f32d2db0af67400077f29c4-alt.m3u8
+#EXTINF:-1 group-title="Brazil" tvg-logo="https://images.pluto.tv/channels/5f5a545d0dbf7f0007c09408/colorLogoPNG.png" tvg-id="5f5a545d0dbf7f0007c09408" ,Filmes Nacionais 🇧🇷 🟤
+https://bit.ly/3O1z2ai?profile=inspirationFreetv.m3u8
+#EXTINF:-1 group-title="Brazil" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/runtime.webp" ,Runtimeᴴᴰ 🇧🇷 🟤
+https://d3vx6kwn4pkd9t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fj2q06aizeppd-prod/run/rt_br/rt_br.m3u8
+#EXTINF:-1 group-title="Brazil" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/runtime.webp" ,Runtime Actionᴴᴰ 🇧🇷 🟤
+https://d3vx6kwn4pkd9t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fj2q06aizeppd-prod/run/rt_ra/rt_ra.m3u8
+#EXTINF:-1 group-title="Brazil" tvg-logo="https://images.pluto.tv/channels/63eb9fdda995710008991c54/colorLogoPNG.png" tvg-id="63eb9fdda995710008991c54" ,NCISᴴᴰ 🇧🇷 🟤
+https://bit.ly/429JSAQ?profile=inspirationFreetv.m3u8
+#EXTINF:-1 group-title="Brazil" tvg-logo="https://images.pluto.tv/channels/63eb9c5351f5d000085e8d7e/colorLogoPNG.png" tvg-id="63eb9c5351f5d000085e8d7e" ,CSI Miamiᴴᴰ 🇧🇷 🟤
+https://bit.ly/3SkIV58?profile=inspirationFreetv.m3u8
+#EXTINF:-1 group-title="Brazil" tvg-logo="https://provider-static.plex.tv/epg/cms/production/8430bfd1-b119-4f3d-8992-8921cad397e2/dark_matter_tv_logo_dark.png" ,Dark Matterᴴᴰ 🇧🇷 🟤
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_br_darkmatter_002.m3u8
+#EXTINF:-1 group-title="Brazil" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/homefull.png" tvg-id="cc-9flatd4lam6vc" ,HomeFulᴴᴰ 🇧🇷 🟤
+https://cc-9flatd4lam6vc.akamaized.net/5.m3u8
+#EXTINF:-1 group-title="Brazil" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/homefull.png" tvg-id="cc-9flatd4lam6vc" ,HomeFulᴴᴰ 🇧🇷 🟤
+https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9flatd4lam6vc/master.m3u8
+#EXTINF:-1 group-title="Brazil" tvg-logo="https://images.pluto.tv/channels/61bb72a7bf8c520007a8fd27/colorLogoPNG.png" tvg-id="61bb72a7bf8c520007a8fd27" ,Pronto Socorroᴴᴰ 🇧🇷 🟤
+https://bit.ly/42QJRSy?profile=inspirationFreetv.m3u8
+#EXTINF:-1 group-title="Brazil" tvg-logo="https://images.pluto.tv/channels/5f32cf37c9ff2b00082adbc8/colorLogoPNG.png" tvg-id="5f32cf37c9ff2b00082adbc8" ,Investigação tvᴴᴰ 🇧🇷 🟤
+https://bit.ly/3SOSEzT?profile=inspirationFreetv.m3u8
+#EXTINF:-1 group-title="Brazil" tvg-logo="https://lovenature.com/wp-content/uploads/2020/08/love-nature-logo_peacock.png" tvg-id="5f1213ba0ecebc00070e170f" ,Love Natureᴴᴰ 🇧🇷 🟤
+https://bit.ly/3HNWe8N?profile=inspirationlivetv.m3u
+#EXTINF:-1 group-title="Brazil" tvg-logo="https://images.pluto.tv/channels/60f8841a4865da0007421177/colorLogoPNG.png" tvg-id="60f8841a4865da0007421177" ,Estilo de Vidaᴴᴰ 🇧🇷 🟤
+https://bit.ly/48VHcJ0?profile=inspirationFreetv.m3u8
+#EXTINF:-1 group-title="Brazil" tvg-logo="https://images.pluto.tv/channels/5f32d4d9ec194100070c7449/colorLogoPNG.png" tvg-id="5f32d4d9ec194100070c7449" ,Vida Realᴴᴰ 🇧🇷 🟤
+https://bit.ly/46NDhMV?profile=inspirationFreetv.m3u8
+#EXTINF:-1 group-title="Brazil" tvg-logo="https://images.pluto.tv/channels/5f36f2346ede750007332d11/colorLogoPNG-1602877726414.png" tvg-id="5f36f2346ede750007332d11" ,Porta dos Fundosᴴᴰ 🇧🇷 🟤
+https://bit.ly/3ocj9k9?profile=inspirationFreetv.m3u8
+#EXTINF:-1 group-title="Brazil" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Masterchef.png" ,Masterchefᴴᴰ 🇧🇷 🟤
+🔰  Canais 🇪🇸 🔰
