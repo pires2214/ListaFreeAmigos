@@ -4101,3 +4101,40 @@ http://game.shiuk.re/8788899/2556776/801
 http://game.shiuk.re/8788899/2556776/802
 #EXTINF:-1 group-title="CANAIS || NOTÍCIAS" tvg-logo="http://ucsxiptv.com:8080/images/logos/790d9c7c1826074aba842df3130be604.png" ,Record News SD
 http://game.shiuk.re/8788899/2556776/803
+#EXTM3U
+
+#EXTINF:-1,1.FM Reggae
+http://strm112.1.fm/reggae_mobile_mp3
+
+#EXTINF:-1,__80 HITS
+http://80sexitos.stream.laut.fm/80sexitos?t302=2024-05-26_01-48-46&uuid=25ce1493-5e4e-420e-aa17-7f65afe6c957
+
+#EXTINF:-1,A Tarde FM
+https://stm35.srvstm.com:7920/stream%22%3E%3C/audio%3E
+
+#EXTINF:-1,Alternativa 98.1 FM
+http://www.streamingcwsradio30.com:8016/;
+
+#EXTINF:-1,Bahia FM 88.7
+https://f65.fabricahost.com.br/radiobahiafm?f=1716663890N01HYRJ8CYKCAVP2J9968CNG812&tid=01HVSRNB0F07Q7C6ZZNJN1HTDM
+
+#EXTINF:-1,Band FM 102.7
+https://r13.ciclano.io:15119/stream
+
+#EXTINF:-1,Geração Samba e Pagode
+https://servidor.geracaoradios.com/listen/sambaepagode/stream
+
+#EXTINF:-1,Globo FM
+http://sonic.sistemahost.es:8200/
+
+#EXTINF:-1,Piatã FM
+https://streaming.livespanel.com:9430/stream
+
+#EXTINF:-1,Rádio Itapoan 97.5 FM
+http://cast.radiu.live:9300/stream
+
+#EXTINF:-1,Rádio Transamérica 100.1 FM
+https://24283.live.streamtheworld.com:443/RT_SPAAC.aac
+
+#EXTINF:-1,Sucesso FM 93.1
+https://stm7.conectastreaming.com:19876/stream
